@@ -4,7 +4,7 @@
 </picture>
 <div align=center>
 
-[![this the part no one sees this](https://komarev.com/ghpvc/?username=Creet1724&style=for-the-badge)](#) [![people interested in what I do (no one)](https://img.shields.io/github/followers/Creet1724?style=for-the-badge)](#) [![99% 1star attack](https://img.shields.io/github/stars/Creet1724?style=for-the-badge)](#) [![some video sharing platform I rarely use](https://img.shields.io/youtube/channel/subscribers/UC_Mhs9jh-MQI40K6MbkEO5Q?style=for-the-badge&label=YouTube
+[![Views Counter](https://komarev.com/ghpvc/?username=Creet1724&style=for-the-badge)](#) [![Followers Counter](https://img.shields.io/github/followers/Creet1724?style=for-the-badge)](#) [![Stars Counter](https://img.shields.io/github/stars/Creet1724?style=for-the-badge)](#) [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC_Mhs9jh-MQI40K6MbkEO5Q?style=for-the-badge&label=YouTube
 )](https://youtube.com/@Creet1724)
 
 
@@ -24,8 +24,8 @@ Now that you know 5 things about me, why stop here?
 The website you're looking at? That's called a GitHub.  
 Do you want some statistics on my existence in terms of code? Here you go!
 
-[![StatTrak™ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creet1724&show_icons=true&theme=transparent)](#)  
-[![StatTrak™ Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Creet1724&theme=transparent)](#)  
+[![StatTrak™ GitHub User Stats](https://github-readme-stats.vercel.app/api?username=Creet1724&show_icons=true&theme=transparent)](#)  
+[![StatTrak™ of Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Creet1724&theme=transparent)](#)  
 <sup><sub>...need improvement...</sub></sup>
 
 # Video Games!

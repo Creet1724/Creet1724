@@ -37,6 +37,6 @@ I play these games often:
 - ..and a few more I play once and never play again. 
 
 # That's about it
-That's all I have to put here. Why don't you check out some of the stuff I've made down there?
+That's all I have to put here. Why don't you check out some of the stuff I've made?
 
 <!--why are you here?-->

@@ -26,7 +26,7 @@ Do you want some statistics on my existence in terms of code? Here you go!
 
 [![StatTrak™ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creet1724&show_icons=true&theme=transparent)](#)  
 [![StatTrak™ Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Creet1724&theme=transparent)](#)  
-###### ...need improvement...
+<sup><sub>...need improvement...</sub></sup>
 
 # Video Games!
 Would you believe it? I play video games! Such a surprise!  

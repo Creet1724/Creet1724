@@ -22,10 +22,10 @@ Now that you know 5 things about me, why stop here?
 
 # GitHub!
 The website you're looking at? That's called a GitHub.  
-Do you happen also to want some statistics on my existence in terms of code? Here you go!
+Do you want some statistics on my existence in terms of code? Here you go!
 
-![StatTrak™ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creet1724&show_icons=true&theme=transparent)  
-![StatTrak™ Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Creet1724&theme=transparent)  
+[![StatTrak™ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creet1724&show_icons=true&theme=transparent)](#)  
+[![StatTrak™ Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Creet1724&theme=transparent)](#)  
 ###### ...need improvement...
 
 # Video Games!
